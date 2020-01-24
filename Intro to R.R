@@ -1,5 +1,5 @@
 # R script to accompany Intro to R
-# CStephen Gee
+# Stephen Gee
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
